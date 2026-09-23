@@ -4,6 +4,6 @@ build:
 accounts:
   message: Welcome to the Accounts Service! PROD
   contactInfo:
-    email: accountsprod@example.com
+    email: '{cipher}2648877fb4f07589578b316411f059cd52e6d32c248f3962d1a051b48af5974c989ccb2f56b101ac6115f2c374002141'
     phone: +1-123-456-7890
   onboarding: true
