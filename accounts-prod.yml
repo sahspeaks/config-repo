@@ -4,6 +4,6 @@ build:
 accounts:
   message: Welcome to the Accounts Service! production
   contactInfo:
-    email: '{cipher}2648877fb4f07589578b316411f059cd52e6d32c248f3962d1a051b48af5974c989ccb2f56b101ac6115f2c374002141'
+    email: '{cipher}f77291b380836814900fb80be20c41a9b9be2875b51d5ca9542069ecd593b270c7f5110c9222ae45502357dda1033171'
     phone: +1-123-456-7890
   onboarding: true
